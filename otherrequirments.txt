@@ -1,0 +1,9 @@
+arxiv
+WikipediaQueryRun
+FAISS
+chromadb
+langchain_core
+groq
+langchain_groq
+beautifulsoup4
+sentence_transformers

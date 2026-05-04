@@ -1,0 +1,9 @@
+styles=["RedBlueStyle",
+"BlueStyle",
+"DarkSolarizedStyle",
+"LightColorizedStyle",
+"DarkStyle",
+"CleanStyle",
+"TurquoiseStyle",
+"DarkColorizedStyle",
+"LightSolarizedStyle"]

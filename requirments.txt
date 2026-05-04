@@ -1,0 +1,15 @@
+protobuf
+cx_Freeze
+langchain_core
+QT-PyQt-PySide-Custom-Widgets
+PySide6
+pandas
+langchain
+langchain_ollama
+markdown
+python-docx
+bcrypt
+passlib
+SQLAlchemy
+pygal
+openpyxl

@@ -1,0 +1,116 @@
+# Axiora Project Rules and Patterns
+
+## Code Organization
+1. File Structure
+   - Core functionality in root directory
+   - UI components in uiEXT/
+   - Modules in modules/
+   - Tests in test/
+   - Resources in resources/
+
+2. Naming Conventions
+   - Classes: PascalCase
+   - Functions: snake_case
+   - Variables: snake_case
+   - Constants: UPPER_CASE
+   - Private members: _prefix
+
+3. Import Order
+   - Standard library imports
+   - Third-party imports
+   - Local application imports
+
+## Development Workflow
+1. Version Control
+   - Feature branches
+   - Pull requests
+   - Commit messages
+   - Code review
+
+2. Testing
+   - Unit tests for core functionality
+   - UI tests for components
+   - Data validation tests
+   - Performance tests
+
+3. Documentation
+   - Docstrings for all functions
+   - Module-level documentation
+   - API documentation
+   - User guides
+
+## UI/UX Patterns
+1. Layout
+   - Responsive design
+   - Consistent spacing
+   - Clear hierarchy
+   - Intuitive navigation
+
+2. Components
+   - Reusable widgets
+   - Consistent styling
+   - Clear feedback
+   - Error handling
+
+3. Theming
+   - Dark/light modes
+   - Custom themes
+   - Consistent colors
+   - Accessible design
+
+## Data Management
+1. Database
+   - SQLite for local storage
+   - Structured schemas
+   - Efficient queries
+   - Data validation
+
+2. Analysis
+   - Clean data processing
+   - Efficient algorithms
+   - Clear visualization
+   - Accurate reporting
+
+3. Security
+   - Secure authentication
+   - Data encryption
+   - Access control
+   - Audit logging
+
+## Performance Guidelines
+1. Optimization
+   - Efficient algorithms
+   - Memory management
+   - Caching strategies
+   - Lazy loading
+
+2. UI Performance
+   - Responsive updates
+   - Efficient rendering
+   - Background processing
+   - Progress indicators
+
+3. Data Handling
+   - Batch processing
+   - Streaming support
+   - Compression
+   - Caching
+
+## Error Handling
+1. User Errors
+   - Clear messages
+   - Recovery options
+   - Helpful suggestions
+   - Logging
+
+2. System Errors
+   - Graceful degradation
+   - Error recovery
+   - System logging
+   - User notification
+
+3. Data Errors
+   - Validation
+   - Correction
+   - Reporting
+   - Prevention 

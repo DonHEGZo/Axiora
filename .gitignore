@@ -1,0 +1,18 @@
+# Ignore any folder named logs
+logs/
+
+# Ignore any folder named __pycache__
+__pycache__/
+
+# Ignore any file with .pyc extension
+*.pyc
+
+# Ignore any file with .log extension
+*.log
+df_info.txt
+main.ui.autosave
+test.ipynb
+test.ipynb
+df_description.txt
+tempCodeRunnerFile.py
+df_description.txt
